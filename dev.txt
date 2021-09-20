@@ -1,4 +1,9 @@
 development 
 this is development git file
+<<<<<<< HEAD
 changes are madetesting second 
 testing second 
+=======
+changes are made
+something
+>>>>>>> a718bac13dacd3cc87f50a8529ea08607ff22293
