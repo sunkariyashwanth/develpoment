@@ -9,3 +9,4 @@ something
 >>>>>>> a718bac13dacd3cc87f50a8529ea08607ff22293
 testing git 
 we will test git 
+testing conflicts
